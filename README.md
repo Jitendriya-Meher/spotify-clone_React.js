@@ -1,6 +1,6 @@
 # React + Vite
 
-### Demp : https://astounding-truffle-31a528.netlify.app/
+### Live Demo : https://astounding-truffle-31a528.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
